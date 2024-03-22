@@ -10,9 +10,11 @@ RouteSavvy API is an easy to use REST service for optimizing driving stop order.
 
 The optimized results return stops ordered for the most efficient driving route. Results include turn by turn directions for reach route leg and a latitude, longitude polyline describing the route for use in map visualization.
 
+RouteSavvy Json Plus API provides additional features including "Time Windows" and "Multi Vehicle" capabilities to the standard RouteSavvy Json API,  ( https://github.com/onterra/Example-RouteSavvyJsonAPI).
+
 •	ExampleJsonGet-C# – example C# code that reads a json input file and performs a RouteSavvy GET Request
 
-•	ExampleJsonPost-C# – example C# code that reads a json input file and performs a RouteSavvy GET Request
+•	ExampleJsonPost-C# – example C# code that reads a json input file and performs a RouteSavvy POST Request
 
 •	SampleRequest.json – is a sample RouteSavvy API json request file – replace \<Your AppId goes here\>  with your RouteSavvy Json API AppId.
 Free trial AppId is available here: https://routesavvy.flywheelsites.com/routesavvy-api-free-trial/
