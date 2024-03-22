@@ -21,18 +21,6 @@ Free trial AppId is available here: https://routesavvy.flywheelsites.com/routesa
 
 •	User Guide - https://www.routesavvy.com/wp-content/uploads/2024/01/RouteSavvy-API-PLUS-Documentation.pdf
 
-Additional code samples:
-
-•	ExampleJsonPost-java - generated Json Post java example
-
-•	ExampleJsonPost-node - Visual Studio 2022 node.js project example
-
-•	ExampleJsonPost-php - generated Json Post php example
-
-•	ExampleJsonPost-py - Visual Studio 2022 python project example
-
-•	ExampleJsonPost-vb - generated Json Post vb example
-
 For assistance, please contact routesavvy@onterrasystems.com
 
 
