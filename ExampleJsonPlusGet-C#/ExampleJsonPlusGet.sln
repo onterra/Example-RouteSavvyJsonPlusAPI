@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleJsonPlusGet", "ExampleJsonPlusGet\ExampleJsonPlusGet.csproj", "{88D714DE-F89E-46B3-ABDB-EF2CE480DE57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D714DE-F89E-46B3-ABDB-EF2CE480DE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D714DE-F89E-46B3-ABDB-EF2CE480DE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D714DE-F89E-46B3-ABDB-EF2CE480DE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D714DE-F89E-46B3-ABDB-EF2CE480DE57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA8CA55-FD61-4824-A70A-6DA5E2AFE776}
+	EndGlobalSection
+EndGlobal

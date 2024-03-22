@@ -1,0 +1,17 @@
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\bin\Debug\net8.0\ExampleJsonPlusPost-C#.exe
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\bin\Debug\net8.0\ExampleJsonPlusPost-C#.deps.json
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\bin\Debug\net8.0\ExampleJsonPlusPost-C#.runtimeconfig.json
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\bin\Debug\net8.0\ExampleJsonPlusPost-C#.dll
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\bin\Debug\net8.0\ExampleJsonPlusPost-C#.pdb
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\obj\Debug\net8.0\ExampleJsonPlusPost-C#.csproj.AssemblyReference.cache
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\obj\Debug\net8.0\ExampleJsonPlusPost-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\obj\Debug\net8.0\ExampleJsonPlusPost-C#.AssemblyInfoInputs.cache
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\obj\Debug\net8.0\ExampleJsonPlusPost-C#.AssemblyInfo.cs
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\obj\Debug\net8.0\ExampleJsonPlusPost-C#.csproj.CoreCompileInputs.cache
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\obj\Debug\net8.0\ExampleJ.F4BCAE62.Up2Date
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\obj\Debug\net8.0\ExampleJsonPlusPost-C#.dll
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\obj\Debug\net8.0\refint\ExampleJsonPlusPost-C#.dll
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\obj\Debug\net8.0\ExampleJsonPlusPost-C#.pdb
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\obj\Debug\net8.0\ExampleJsonPlusPost-C#.genruntimeconfig.cache
+C:\OnTerra\RouteSavvyJsonPlus\Example-RouteSavvyJsonPlusAPI\ExampleJsonPlusPost-C#\ExampleJsonPlusPost-C#\obj\Debug\net8.0\ref\ExampleJsonPlusPost-C#.dll

@@ -1,0 +1,4729 @@
+{
+  "Message": "Success",
+  "Route_Details": [
+    {
+      "Routes": [
+        {
+          "Vehicle_id": "Vehicle01",
+          "OptimizedStops": [
+            {
+              "Arrival": null,
+              "Departure": "8:00:00 3/22/2024",
+              "Distance": null,
+              "Duration": null,
+              "IsDuplicate": false,
+              "Name": "Depot",
+              "RouteLocation": {
+                "Latitude": 39.712797,
+                "Longitude": -104.987282
+              },
+              "StopTimeMinutes": 0,
+              "time_windows": null,
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "9:00:00 3/22/2024",
+              "Departure": "10:00:00 3/22/2024",
+              "Distance": "5.52 miles (8.89 km)",
+              "Duration": "15 minutes, 30 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer004",
+              "RouteLocation": {
+                "Latitude": 39.750206,
+                "Longitude": -104.933919
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                },
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 2670
+            },
+            {
+              "Arrival": "10:07:55 3/22/2024",
+              "Departure": "10:37:55 3/22/2024",
+              "Distance": "2.39 miles (3.85 km)",
+              "Duration": "7 minutes, 55 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer001",
+              "RouteLocation": {
+                "Latitude": 39.761975,
+                "Longitude": -104.907292
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                },
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "10:41:03 3/22/2024",
+              "Departure": "11:41:03 3/22/2024",
+              "Distance": "0.95 miles (1.54 km)",
+              "Duration": "3 minutes, 8 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer002",
+              "RouteLocation": {
+                "Latitude": 39.765176,
+                "Longitude": -104.919965
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                },
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "11:44:48 3/22/2024",
+              "Departure": "12:14:48 3/22/2024",
+              "Distance": "0.98 miles (1.58 km)",
+              "Duration": "3 minutes, 45 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer005",
+              "RouteLocation": {
+                "Latitude": 39.762898,
+                "Longitude": -104.934401
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                },
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "12:22:01 3/22/2024",
+              "Departure": "12:52:01 3/22/2024",
+              "Distance": "2.54 miles (4.09 km)",
+              "Duration": "7 minutes, 12 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer027",
+              "RouteLocation": {
+                "Latitude": 39.737571,
+                "Longitude": -104.94948
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "12:00",
+                  "latest": "15:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "12:57:08 3/22/2024",
+              "Departure": "13:27:08 3/22/2024",
+              "Distance": "1.89 miles (3.03 km)",
+              "Duration": "5 minutes, 7 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer021",
+              "RouteLocation": {
+                "Latitude": 39.718952,
+                "Longitude": -104.94133
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "12:00",
+                  "latest": "15:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "13:34:37 3/22/2024",
+              "Departure": "14:34:37 3/22/2024",
+              "Distance": "2.39 miles (3.85 km)",
+              "Duration": "7 minutes, 28 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer030",
+              "RouteLocation": {
+                "Latitude": 39.699675,
+                "Longitude": -104.958124
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "12:00",
+                  "latest": "15:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "14:43:45 3/22/2024",
+              "Departure": "15:13:45 3/22/2024",
+              "Distance": "4.64 miles (7.47 km)",
+              "Duration": "9 minutes, 8 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer029",
+              "RouteLocation": {
+                "Latitude": 39.69995,
+                "Longitude": -104.99917
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "12:00",
+                  "latest": "15:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "15:21:53 3/22/2024",
+              "Departure": "16:21:53 3/22/2024",
+              "Distance": "2.64 miles (4.24 km)",
+              "Duration": "8 minutes, 7 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer020",
+              "RouteLocation": {
+                "Latitude": 39.707665,
+                "Longitude": -105.029438
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "16:24:31 3/22/2024",
+              "Departure": "17:24:31 3/22/2024",
+              "Distance": "0.45 miles (0.73 km)",
+              "Duration": "2 minutes, 38 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer018",
+              "RouteLocation": {
+                "Latitude": 39.71005,
+                "Longitude": -105.034422
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "17:31:37 3/22/2024",
+              "Departure": "17:31:37 3/22/2024",
+              "Distance": "2.76 miles (4.45 km)",
+              "Duration": "7 minutes, 5 seconds",
+              "IsDuplicate": false,
+              "Name": "Depot",
+              "RouteLocation": {
+                "Latitude": 39.712797,
+                "Longitude": -104.987282
+              },
+              "StopTimeMinutes": 0,
+              "time_windows": null,
+              "waiting_time": 0
+            }
+          ],
+          "Route": {
+            "DriveDistance": 43.722072,
+            "DriveDistanceUnit": "Kilometer",
+            "DriveTime": 4627,
+            "DriveTimeUnit": "Second",
+            "RouteLegs": [
+              {
+                "Directions": [
+                  "Continue onto East Cedar Avenue",
+                  "Turn left onto South Lincoln Street",
+                  "Turn right onto East 6th Avenue",
+                  "Turn left onto Colorado Boulevard",
+                  "Turn right onto East 23rd Avenue",
+                  "Turn right onto Cherry Street"
+                ],
+                "DriveDistance": 8.888992,
+                "DriveTime": 930,
+                "LegBegin": {
+                  "Name": "Depot",
+                  "RouteLocation": {
+                    "Latitude": 39.7128,
+                    "Longitude": -104.98728
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer004",
+                  "RouteLocation": {
+                    "Latitude": 39.750206,
+                    "Longitude": -104.933919
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto Cherry Street",
+                  "Turn right onto East 23rd Avenue",
+                  "Turn left onto Monaco Parkway",
+                  "Turn right onto Martin Luther King Jr Boulevard",
+                  "Make a U-turn onto Martin Luther King Jr Boulevard"
+                ],
+                "DriveDistance": 3.849406,
+                "DriveTime": 475,
+                "LegBegin": {
+                  "Name": "Customer004",
+                  "RouteLocation": {
+                    "Latitude": 39.750206,
+                    "Longitude": -104.933919
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer001",
+                  "RouteLocation": {
+                    "Latitude": 39.761975,
+                    "Longitude": -104.907292
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Martin Luther King Jr Boulevard",
+                  "Turn right onto Kearney Street",
+                  "Turn left onto East 35th Avenue",
+                  "Turn left onto Ivy Street"
+                ],
+                "DriveDistance": 1.5353700000000001,
+                "DriveTime": 188,
+                "LegBegin": {
+                  "Name": "Customer001",
+                  "RouteLocation": {
+                    "Latitude": 39.761975,
+                    "Longitude": -104.907292
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer002",
+                  "RouteLocation": {
+                    "Latitude": 39.765176,
+                    "Longitude": -104.919965
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto Ivy Street",
+                  "Turn left onto East 35th Avenue",
+                  "Turn left onto Dahlia Street",
+                  "Turn right onto East Bruce Randolph Avenue",
+                  "Turn left onto Cherry Street"
+                ],
+                "DriveDistance": 1.5843000000000003,
+                "DriveTime": 225,
+                "LegBegin": {
+                  "Name": "Customer002",
+                  "RouteLocation": {
+                    "Latitude": 39.765176,
+                    "Longitude": -104.919965
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer005",
+                  "RouteLocation": {
+                    "Latitude": 39.762898,
+                    "Longitude": -104.934401
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Cherry Street",
+                  "Turn right onto Martin Luther King Jr Boulevard",
+                  "Turn left onto Colorado Boulevard",
+                  "Turn right onto East Colfax Avenue",
+                  "Turn left onto Steele Street"
+                ],
+                "DriveDistance": 4.090587,
+                "DriveTime": 432,
+                "LegBegin": {
+                  "Name": "Customer005",
+                  "RouteLocation": {
+                    "Latitude": 39.762898,
+                    "Longitude": -104.934401
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer027",
+                  "RouteLocation": {
+                    "Latitude": 39.737571,
+                    "Longitude": -104.94948
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto Steele Street",
+                  "Turn right onto East 14th Avenue",
+                  "Turn right onto Colorado Boulevard",
+                  "Turn right onto East 2nd Avenue",
+                  "Turn left onto Harrison Street"
+                ],
+                "DriveDistance": 3.034264,
+                "DriveTime": 307,
+                "LegBegin": {
+                  "Name": "Customer027",
+                  "RouteLocation": {
+                    "Latitude": 39.737571,
+                    "Longitude": -104.94948
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer021",
+                  "RouteLocation": {
+                    "Latitude": 39.718952,
+                    "Longitude": -104.94133
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Harrison Street",
+                  "Turn right onto East 1st Avenue",
+                  "Keep right",
+                  "Turn left onto University Boulevard",
+                  "Turn left onto East Kentucky Avenue",
+                  "Turn right onto South Josephine Street"
+                ],
+                "DriveDistance": 3.8537489999999996,
+                "DriveTime": 449,
+                "LegBegin": {
+                  "Name": "Customer021",
+                  "RouteLocation": {
+                    "Latitude": 39.718952,
+                    "Longitude": -104.94133
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer030",
+                  "RouteLocation": {
+                    "Latitude": 39.699675,
+                    "Longitude": -104.958124
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto South Josephine Street",
+                  "Turn right onto East Tennessee Avenue",
+                  "Turn left onto South University Boulevard",
+                  "Keep right toward I 25 North",
+                  "Keep right and take US 85, CO 26 toward Santa Fe Drive, Alameda Avenue",
+                  "Keep left and take US 85 South toward Santa Fe Drive",
+                  "Turn left onto South Santa Fe Drive",
+                  "Turn right onto West Tennessee Avenue",
+                  "Turn right onto South Huron Street",
+                  "Turn left onto West Tennessee Avenue",
+                  "Turn right onto South Jason Street"
+                ],
+                "DriveDistance": 7.467058999999999,
+                "DriveTime": 549,
+                "LegBegin": {
+                  "Name": "Customer030",
+                  "RouteLocation": {
+                    "Latitude": 39.699675,
+                    "Longitude": -104.958124
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer029",
+                  "RouteLocation": {
+                    "Latitude": 39.69995,
+                    "Longitude": -104.99917
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto South Jason Street",
+                  "Turn left onto West Custer Place",
+                  "Turn right onto South Lipan Street",
+                  "Turn sharp left onto West Alameda Avenue",
+                  "Turn left onto South Federal Boulevard",
+                  "Turn sharp right onto West Virginia Avenue"
+                ],
+                "DriveDistance": 4.242363999999999,
+                "DriveTime": 487,
+                "LegBegin": {
+                  "Name": "Customer029",
+                  "RouteLocation": {
+                    "Latitude": 39.69995,
+                    "Longitude": -104.99917
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer020",
+                  "RouteLocation": {
+                    "Latitude": 39.707665,
+                    "Longitude": -105.029438
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto West Virginia Avenue",
+                  "Turn right onto South Knox Court",
+                  "Turn left onto West Nevada Place",
+                  "Turn slight left onto Morrison Road"
+                ],
+                "DriveDistance": 0.7297760000000001,
+                "DriveTime": 158,
+                "LegBegin": {
+                  "Name": "Customer020",
+                  "RouteLocation": {
+                    "Latitude": 39.707665,
+                    "Longitude": -105.029438
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer018",
+                  "RouteLocation": {
+                    "Latitude": 39.71005,
+                    "Longitude": -105.034422
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto Morrison Road",
+                  "Keep right onto West Alameda Avenue",
+                  "Turn left onto South Lincoln Street",
+                  "Turn left onto East Cedar Avenue"
+                ],
+                "DriveDistance": 4.446205,
+                "DriveTime": 426,
+                "LegBegin": {
+                  "Name": "Customer018",
+                  "RouteLocation": {
+                    "Latitude": 39.71005,
+                    "Longitude": -105.034422
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Depot",
+                  "RouteLocation": {
+                    "Latitude": 39.7128,
+                    "Longitude": -104.98728
+                  }
+                }
+              }
+            ],
+            "RoutePath": [
+              [
+                39.712973,
+                -104.987276
+              ],
+              [
+                39.712958,
+                -104.986296
+              ],
+              [
+                39.713269,
+                -104.986273
+              ],
+              [
+                39.714761,
+                -104.986249
+              ],
+              [
+                39.718349,
+                -104.986228
+              ],
+              [
+                39.725238,
+                -104.98626
+              ],
+              [
+                39.725641,
+                -104.986219
+              ],
+              [
+                39.725579,
+                -104.972937
+              ],
+              [
+                39.725616,
+                -104.959453
+              ],
+              [
+                39.725614,
+                -104.955852
+              ],
+              [
+                39.725608,
+                -104.944369
+              ],
+              [
+                39.725607,
+                -104.940606
+              ],
+              [
+                39.734665,
+                -104.940588
+              ],
+              [
+                39.736685,
+                -104.940603
+              ],
+              [
+                39.742984,
+                -104.940596
+              ],
+              [
+                39.743383,
+                -104.940599
+              ],
+              [
+                39.743986,
+                -104.940654
+              ],
+              [
+                39.751038,
+                -104.940609
+              ],
+              [
+                39.751053,
+                -104.933944
+              ],
+              [
+                39.750206,
+                -104.93395
+              ],
+              [
+                39.751053,
+                -104.933944
+              ],
+              [
+                39.751066,
+                -104.927579
+              ],
+              [
+                39.75109,
+                -104.913426
+              ],
+              [
+                39.751085,
+                -104.912851
+              ],
+              [
+                39.751028,
+                -104.912395
+              ],
+              [
+                39.751608,
+                -104.912403
+              ],
+              [
+                39.752556,
+                -104.912465
+              ],
+              [
+                39.752872,
+                -104.912465
+              ],
+              [
+                39.753875,
+                -104.912388
+              ],
+              [
+                39.754212,
+                -104.912396
+              ],
+              [
+                39.75471,
+                -104.912452
+              ],
+              [
+                39.755503,
+                -104.91245
+              ],
+              [
+                39.756574,
+                -104.912362
+              ],
+              [
+                39.757069,
+                -104.91237
+              ],
+              [
+                39.757831,
+                -104.91242
+              ],
+              [
+                39.758387,
+                -104.912398
+              ],
+              [
+                39.761813,
+                -104.912421
+              ],
+              [
+                39.76183,
+                -104.908182
+              ],
+              [
+                39.761826,
+                -104.905793
+              ],
+              [
+                39.761979,
+                -104.905792
+              ],
+              [
+                39.761983,
+                -104.907292
+              ],
+              [
+                39.761982,
+                -104.911738
+              ],
+              [
+                39.762002,
+                -104.914641
+              ],
+              [
+                39.761997,
+                -104.917584
+              ],
+              [
+                39.765628,
+                -104.917605
+              ],
+              [
+                39.765622,
+                -104.919967
+              ],
+              [
+                39.765176,
+                -104.919967
+              ],
+              [
+                39.765622,
+                -104.919967
+              ],
+              [
+                39.765582,
+                -104.93054
+              ],
+              [
+                39.765611,
+                -104.931654
+              ],
+              [
+                39.765628,
+                -104.93182
+              ],
+              [
+                39.765404,
+                -104.931842
+              ],
+              [
+                39.764471,
+                -104.93185
+              ],
+              [
+                39.764475,
+                -104.93439
+              ],
+              [
+                39.762898,
+                -104.934393
+              ],
+              [
+                39.762,
+                -104.934394
+              ],
+              [
+                39.761988,
+                -104.939888
+              ],
+              [
+                39.761936,
+                -104.940682
+              ],
+              [
+                39.755024,
+                -104.940703
+              ],
+              [
+                39.754506,
+                -104.940717
+              ],
+              [
+                39.754322,
+                -104.940741
+              ],
+              [
+                39.753754,
+                -104.940765
+              ],
+              [
+                39.744411,
+                -104.940822
+              ],
+              [
+                39.743744,
+                -104.940809
+              ],
+              [
+                39.743567,
+                -104.94078
+              ],
+              [
+                39.743293,
+                -104.940766
+              ],
+              [
+                39.740191,
+                -104.940776
+              ],
+              [
+                39.740198,
+                -104.941523
+              ],
+              [
+                39.74019,
+                -104.941721
+              ],
+              [
+                39.740147,
+                -104.941933
+              ],
+              [
+                39.740144,
+                -104.942433
+              ],
+              [
+                39.740172,
+                -104.949477
+              ],
+              [
+                39.737571,
+                -104.949488
+              ],
+              [
+                39.738352,
+                -104.949485
+              ],
+              [
+                39.738323,
+                -104.942073
+              ],
+              [
+                39.738303,
+                -104.940762
+              ],
+              [
+                39.72913,
+                -104.94077
+              ],
+              [
+                39.727317,
+                -104.94079
+              ],
+              [
+                39.726481,
+                -104.94084
+              ],
+              [
+                39.726152,
+                -104.940837
+              ],
+              [
+                39.725607,
+                -104.940799
+              ],
+              [
+                39.72412,
+                -104.940782
+              ],
+              [
+                39.719405,
+                -104.94078
+              ],
+              [
+                39.719408,
+                -104.941347
+              ],
+              [
+                39.718952,
+                -104.941346
+              ],
+              [
+                39.717856,
+                -104.941344
+              ],
+              [
+                39.717851,
+                -104.941764
+              ],
+              [
+                39.717803,
+                -104.941868
+              ],
+              [
+                39.717802,
+                -104.944963
+              ],
+              [
+                39.717811,
+                -104.946783
+              ],
+              [
+                39.717818,
+                -104.948586
+              ],
+              [
+                39.717873,
+                -104.949211
+              ],
+              [
+                39.717871,
+                -104.9498
+              ],
+              [
+                39.717832,
+                -104.950144
+              ],
+              [
+                39.717843,
+                -104.950297
+              ],
+              [
+                39.718178,
+                -104.951438
+              ],
+              [
+                39.718207,
+                -104.951682
+              ],
+              [
+                39.718212,
+                -104.954622
+              ],
+              [
+                39.718232,
+                -104.957878
+              ],
+              [
+                39.718349,
+                -104.959093
+              ],
+              [
+                39.718351,
+                -104.959308
+              ],
+              [
+                39.715846,
+                -104.95931
+              ],
+              [
+                39.714003,
+                -104.959337
+              ],
+              [
+                39.712192,
+                -104.959336
+              ],
+              [
+                39.711851,
+                -104.959314
+              ],
+              [
+                39.711215,
+                -104.959353
+              ],
+              [
+                39.711109,
+                -104.959306
+              ],
+              [
+                39.710808,
+                -104.95933
+              ],
+              [
+                39.70567,
+                -104.959342
+              ],
+              [
+                39.703873,
+                -104.959366
+              ],
+              [
+                39.700219,
+                -104.959342
+              ],
+              [
+                39.700222,
+                -104.958116
+              ],
+              [
+                39.699675,
+                -104.958117
+              ],
+              [
+                39.698395,
+                -104.958119
+              ],
+              [
+                39.698393,
+                -104.95934
+              ],
+              [
+                39.688174,
+                -104.959367
+              ],
+              [
+                39.687064,
+                -104.959397
+              ],
+              [
+                39.686681,
+                -104.959495
+              ],
+              [
+                39.686022,
+                -104.959548
+              ],
+              [
+                39.685748,
+                -104.959628
+              ],
+              [
+                39.685652,
+                -104.959707
+              ],
+              [
+                39.685553,
+                -104.959851
+              ],
+              [
+                39.685513,
+                -104.960034
+              ],
+              [
+                39.685478,
+                -104.960517
+              ],
+              [
+                39.685392,
+                -104.961346
+              ],
+              [
+                39.685338,
+                -104.962309
+              ],
+              [
+                39.685344,
+                -104.962677
+              ],
+              [
+                39.685367,
+                -104.962984
+              ],
+              [
+                39.685419,
+                -104.963368
+              ],
+              [
+                39.685486,
+                -104.963667
+              ],
+              [
+                39.685701,
+                -104.964399
+              ],
+              [
+                39.6859,
+                -104.964966
+              ],
+              [
+                39.689166,
+                -104.971664
+              ],
+              [
+                39.690685,
+                -104.97472
+              ],
+              [
+                39.691029,
+                -104.975286
+              ],
+              [
+                39.691676,
+                -104.976196
+              ],
+              [
+                39.692048,
+                -104.976642
+              ],
+              [
+                39.694529,
+                -104.97938
+              ],
+              [
+                39.696332,
+                -104.98144
+              ],
+              [
+                39.696728,
+                -104.981861
+              ],
+              [
+                39.700197,
+                -104.985861
+              ],
+              [
+                39.700795,
+                -104.986574
+              ],
+              [
+                39.702337,
+                -104.988591
+              ],
+              [
+                39.702537,
+                -104.988875
+              ],
+              [
+                39.702811,
+                -104.989324
+              ],
+              [
+                39.702983,
+                -104.989666
+              ],
+              [
+                39.703196,
+                -104.990195
+              ],
+              [
+                39.7035,
+                -104.991087
+              ],
+              [
+                39.703948,
+                -104.99258
+              ],
+              [
+                39.704324,
+                -104.993572
+              ],
+              [
+                39.704451,
+                -104.993848
+              ],
+              [
+                39.70463,
+                -104.994183
+              ],
+              [
+                39.704972,
+                -104.994678
+              ],
+              [
+                39.705573,
+                -104.995352
+              ],
+              [
+                39.705794,
+                -104.995547
+              ],
+              [
+                39.705981,
+                -104.995676
+              ],
+              [
+                39.706347,
+                -104.995856
+              ],
+              [
+                39.706456,
+                -104.995944
+              ],
+              [
+                39.70658,
+                -104.99613
+              ],
+              [
+                39.706621,
+                -104.996275
+              ],
+              [
+                39.706617,
+                -104.996514
+              ],
+              [
+                39.706512,
+                -104.996893
+              ],
+              [
+                39.706323,
+                -104.996963
+              ],
+              [
+                39.706112,
+                -104.996996
+              ],
+              [
+                39.705794,
+                -104.997001
+              ],
+              [
+                39.705455,
+                -104.996981
+              ],
+              [
+                39.704944,
+                -104.996839
+              ],
+              [
+                39.704194,
+                -104.996523
+              ],
+              [
+                39.702764,
+                -104.99565
+              ],
+              [
+                39.701969,
+                -104.995024
+              ],
+              [
+                39.701463,
+                -104.994595
+              ],
+              [
+                39.699666,
+                -104.993184
+              ],
+              [
+                39.699368,
+                -104.993011
+              ],
+              [
+                39.699063,
+                -104.992873
+              ],
+              [
+                39.698751,
+                -104.992775
+              ],
+              [
+                39.698506,
+                -104.992723
+              ],
+              [
+                39.698491,
+                -104.996779
+              ],
+              [
+                39.699453,
+                -104.996789
+              ],
+              [
+                39.699458,
+                -104.999179
+              ],
+              [
+                39.69995,
+                -104.99918
+              ],
+              [
+                39.70667,
+                -104.999204
+              ],
+              [
+                39.706672,
+                -105.001537
+              ],
+              [
+                39.707559,
+                -105.001542
+              ],
+              [
+                39.708473,
+                -105.001516
+              ],
+              [
+                39.711207,
+                -105.001544
+              ],
+              [
+                39.711185,
+                -105.001655
+              ],
+              [
+                39.711185,
+                -105.003904
+              ],
+              [
+                39.711209,
+                -105.012108
+              ],
+              [
+                39.711172,
+                -105.015716
+              ],
+              [
+                39.711152,
+                -105.022707
+              ],
+              [
+                39.711212,
+                -105.02316
+              ],
+              [
+                39.711232,
+                -105.023857
+              ],
+              [
+                39.711227,
+                -105.025196
+              ],
+              [
+                39.709868,
+                -105.025159
+              ],
+              [
+                39.707635,
+                -105.025151
+              ],
+              [
+                39.707652,
+                -105.025222
+              ],
+              [
+                39.70767,
+                -105.029438
+              ],
+              [
+                39.707691,
+                -105.03245
+              ],
+              [
+                39.710325,
+                -105.032473
+              ],
+              [
+                39.710332,
+                -105.034025
+              ],
+              [
+                39.710052,
+                -105.034424
+              ],
+              [
+                39.710713,
+                -105.033483
+              ],
+              [
+                39.710717,
+                -105.033403
+              ],
+              [
+                39.711143,
+                -105.032727
+              ],
+              [
+                39.711146,
+                -105.03241
+              ],
+              [
+                39.711115,
+                -105.03167
+              ],
+              [
+                39.711104,
+                -105.030867
+              ],
+              [
+                39.711091,
+                -105.026413
+              ],
+              [
+                39.711066,
+                -105.025692
+              ],
+              [
+                39.711083,
+                -105.023335
+              ],
+              [
+                39.71111,
+                -105.022995
+              ],
+              [
+                39.711152,
+                -105.022707
+              ],
+              [
+                39.711172,
+                -105.015716
+              ],
+              [
+                39.711209,
+                -105.012108
+              ],
+              [
+                39.711185,
+                -105.003904
+              ],
+              [
+                39.711185,
+                -105.001655
+              ],
+              [
+                39.711207,
+                -105.001544
+              ],
+              [
+                39.711159,
+                -105.001165
+              ],
+              [
+                39.711122,
+                -105.000611
+              ],
+              [
+                39.711126,
+                -104.999742
+              ],
+              [
+                39.711111,
+                -104.999409
+              ],
+              [
+                39.711106,
+                -104.997074
+              ],
+              [
+                39.711147,
+                -104.995883
+              ],
+              [
+                39.711142,
+                -104.992982
+              ],
+              [
+                39.711189,
+                -104.992863
+              ],
+              [
+                39.71118,
+                -104.991724
+              ],
+              [
+                39.711139,
+                -104.991615
+              ],
+              [
+                39.711136,
+                -104.991156
+              ],
+              [
+                39.711134,
+                -104.99079
+              ],
+              [
+                39.711172,
+                -104.990642
+              ],
+              [
+                39.711151,
+                -104.988132
+              ],
+              [
+                39.711155,
+                -104.986373
+              ],
+              [
+                39.712475,
+                -104.986346
+              ],
+              [
+                39.712958,
+                -104.986296
+              ],
+              [
+                39.712973,
+                -104.987276
+              ]
+            ]
+          }
+        },
+        {
+          "Vehicle_id": "Vehicle02",
+          "OptimizedStops": [
+            {
+              "Arrival": null,
+              "Departure": "8:00:00 3/22/2024",
+              "Distance": null,
+              "Duration": null,
+              "IsDuplicate": false,
+              "Name": "Depot",
+              "RouteLocation": {
+                "Latitude": 39.712797,
+                "Longitude": -104.987282
+              },
+              "StopTimeMinutes": 0,
+              "time_windows": null,
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "8:59:59 3/22/2024",
+              "Departure": "9:29:59 3/22/2024",
+              "Distance": "6.93 miles (11.16 km)",
+              "Duration": "13 minutes, 21 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer003",
+              "RouteLocation": {
+                "Latitude": 39.781996,
+                "Longitude": -105.021899
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                },
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 2798
+            },
+            {
+              "Arrival": "9:33:09 3/22/2024",
+              "Departure": "10:33:09 3/22/2024",
+              "Distance": "0.97 miles (1.57 km)",
+              "Duration": "3 minutes, 9 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer008",
+              "RouteLocation": {
+                "Latitude": 39.770528,
+                "Longitude": -105.025323
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "10:34:07 3/22/2024",
+              "Departure": "11:34:07 3/22/2024",
+              "Distance": "0.33 miles (0.53 km)",
+              "Duration": "57 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer012",
+              "RouteLocation": {
+                "Latitude": 39.7665,
+                "Longitude": -105.02622
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "11:38:08 3/22/2024",
+              "Departure": "12:08:08 3/22/2024",
+              "Distance": "1.43 miles (2.31 km)",
+              "Duration": "4 minutes, 1 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer009",
+              "RouteLocation": {
+                "Latitude": 39.758191,
+                "Longitude": -105.011556
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "12:18:26 3/22/2024",
+              "Departure": "13:18:26 3/22/2024",
+              "Distance": "3.50 miles (5.63 km)",
+              "Duration": "10 minutes, 17 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer022",
+              "RouteLocation": {
+                "Latitude": 39.723464,
+                "Longitude": -104.976386
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "12:00",
+                  "latest": "15:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "13:21:52 3/22/2024",
+              "Departure": "14:21:52 3/22/2024",
+              "Distance": "0.92 miles (1.48 km)",
+              "Duration": "3 minutes, 26 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer024",
+              "RouteLocation": {
+                "Latitude": 39.732052,
+                "Longitude": -104.970328
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "12:00",
+                  "latest": "15:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "14:24:18 3/22/2024",
+              "Departure": "14:54:18 3/22/2024",
+              "Distance": "0.68 miles (1.09 km)",
+              "Duration": "2 minutes, 25 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer025",
+              "RouteLocation": {
+                "Latitude": 39.73898,
+                "Longitude": -104.971841
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "12:00",
+                  "latest": "15:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "15:03:30 3/22/2024",
+              "Departure": "16:03:30 3/22/2024",
+              "Distance": "3.33 miles (5.36 km)",
+              "Duration": "9 minutes, 12 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer014",
+              "RouteLocation": {
+                "Latitude": 39.760577,
+                "Longitude": -105.015824
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "16:10:09 3/22/2024",
+              "Departure": "16:40:09 3/22/2024",
+              "Distance": "1.95 miles (3.13 km)",
+              "Duration": "6 minutes, 38 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer013",
+              "RouteLocation": {
+                "Latitude": 39.759404,
+                "Longitude": -105.045166
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "16:52:58 3/22/2024",
+              "Departure": "17:22:58 3/22/2024",
+              "Distance": "4.83 miles (7.77 km)",
+              "Duration": "12 minutes, 48 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer019",
+              "RouteLocation": {
+                "Latitude": 39.699923,
+                "Longitude": -105.048865
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "17:32:51 3/22/2024",
+              "Departure": "17:32:51 3/22/2024",
+              "Distance": "3.80 miles (6.12 km)",
+              "Duration": "9 minutes, 53 seconds",
+              "IsDuplicate": false,
+              "Name": "Depot",
+              "RouteLocation": {
+                "Latitude": 39.712797,
+                "Longitude": -104.987282
+              },
+              "StopTimeMinutes": 0,
+              "time_windows": null,
+              "waiting_time": 0
+            }
+          ],
+          "Route": {
+            "DriveDistance": 46.145180999999994,
+            "DriveDistanceUnit": "Kilometer",
+            "DriveTime": 4574,
+            "DriveTimeUnit": "Second",
+            "RouteLegs": [
+              {
+                "Directions": [
+                  "Continue onto East Cedar Avenue",
+                  "Turn left onto South Broadway",
+                  "Turn right onto West Alameda Avenue",
+                  "Turn right onto South Santa Fe Drive",
+                  "Keep left onto West Cedar Avenue",
+                  "Turn slight right toward I 25 North",
+                  "Keep right and drive toward Speer Boulevard North",
+                  "Turn right onto Federal Boulevard",
+                  "Turn right onto West 47th Avenue",
+                  "Turn right onto Eliot Street",
+                  "Turn left onto West 47th Avenue"
+                ],
+                "DriveDistance": 11.156027,
+                "DriveTime": 802,
+                "LegBegin": {
+                  "Name": "Depot",
+                  "RouteLocation": {
+                    "Latitude": 39.7128,
+                    "Longitude": -104.98728
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer003",
+                  "RouteLocation": {
+                    "Latitude": 39.781996,
+                    "Longitude": -105.021899
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto West 47th Avenue",
+                  "Turn left onto Elm Court",
+                  "Turn right onto West 46th Avenue",
+                  "Turn left onto Federal Boulevard"
+                ],
+                "DriveDistance": 1.5668909999999998,
+                "DriveTime": 190,
+                "LegBegin": {
+                  "Name": "Customer003",
+                  "RouteLocation": {
+                    "Latitude": 39.781996,
+                    "Longitude": -105.021899
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer008",
+                  "RouteLocation": {
+                    "Latitude": 39.770528,
+                    "Longitude": -105.025323
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Federal Boulevard",
+                  "Turn right onto West 36th Avenue"
+                ],
+                "DriveDistance": 0.525285,
+                "DriveTime": 58,
+                "LegBegin": {
+                  "Name": "Customer008",
+                  "RouteLocation": {
+                    "Latitude": 39.770528,
+                    "Longitude": -105.025323
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer012",
+                  "RouteLocation": {
+                    "Latitude": 39.7665,
+                    "Longitude": -105.02622
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto West 36th Avenue",
+                  "Turn right onto Federal Boulevard",
+                  "Turn left onto Speer Boulevard",
+                  "Turn sharp left onto Zuni Street",
+                  "Turn right onto West 29th Avenue"
+                ],
+                "DriveDistance": 2.3063789999999997,
+                "DriveTime": 242,
+                "LegBegin": {
+                  "Name": "Customer012",
+                  "RouteLocation": {
+                    "Latitude": 39.7665,
+                    "Longitude": -105.02622
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer009",
+                  "RouteLocation": {
+                    "Latitude": 39.758191,
+                    "Longitude": -105.011556
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto 15th Street",
+                  "Turn right onto Wewatta Street",
+                  "Turn right onto Wewatta Street",
+                  "Turn slight right onto Chopper Circle",
+                  "Turn left onto Speer Boulevard",
+                  "Keep right onto West Speer Boulevard",
+                  "Turn right onto Broadway",
+                  "Turn left onto East 6th Avenue",
+                  "Turn right onto Emerson Street"
+                ],
+                "DriveDistance": 5.630609,
+                "DriveTime": 617,
+                "LegBegin": {
+                  "Name": "Customer009",
+                  "RouteLocation": {
+                    "Latitude": 39.758191,
+                    "Longitude": -105.011556
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer022",
+                  "RouteLocation": {
+                    "Latitude": 39.723464,
+                    "Longitude": -104.976386
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto Emerson Street",
+                  "Turn right onto East 6th Avenue",
+                  "Turn left onto Downing Street",
+                  "Turn right onto East 10th Avenue"
+                ],
+                "DriveDistance": 1.4806469999999998,
+                "DriveTime": 206,
+                "LegBegin": {
+                  "Name": "Customer022",
+                  "RouteLocation": {
+                    "Latitude": 39.723464,
+                    "Longitude": -104.976386
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer024",
+                  "RouteLocation": {
+                    "Latitude": 39.732052,
+                    "Longitude": -104.970328
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto East 10th Avenue",
+                  "Turn right onto Downing Street",
+                  "Turn right onto East 14th Avenue",
+                  "Turn left onto Marion Street"
+                ],
+                "DriveDistance": 1.09452,
+                "DriveTime": 145,
+                "LegBegin": {
+                  "Name": "Customer024",
+                  "RouteLocation": {
+                    "Latitude": 39.732052,
+                    "Longitude": -104.970328
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer025",
+                  "RouteLocation": {
+                    "Latitude": 39.73898,
+                    "Longitude": -104.971841
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Marion Street",
+                  "Turn left onto East Colfax Avenue",
+                  "Turn right onto Speer Boulevard",
+                  "Turn right onto Zuni Street"
+                ],
+                "DriveDistance": 5.360201,
+                "DriveTime": 553,
+                "LegBegin": {
+                  "Name": "Customer025",
+                  "RouteLocation": {
+                    "Latitude": 39.73898,
+                    "Longitude": -104.971841
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer014",
+                  "RouteLocation": {
+                    "Latitude": 39.760577,
+                    "Longitude": -105.015824
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto Zuni Street",
+                  "Turn sharp right onto Speer Boulevard",
+                  "Keep left onto West 29th Avenue",
+                  "Turn right onto Tennyson Street",
+                  "Turn left onto West Hayward Place"
+                ],
+                "DriveDistance": 3.1331700000000002,
+                "DriveTime": 399,
+                "LegBegin": {
+                  "Name": "Customer014",
+                  "RouteLocation": {
+                    "Latitude": 39.760577,
+                    "Longitude": -105.015824
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer013",
+                  "RouteLocation": {
+                    "Latitude": 39.759404,
+                    "Longitude": -105.045166
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto West Hayward Place",
+                  "Turn left onto Vrain Street",
+                  "Turn right onto West 29th Avenue",
+                  "Turn left onto Sheridan Boulevard",
+                  "Turn left onto West Kentucky Avenue",
+                  "Turn sharp right onto Morrison Road"
+                ],
+                "DriveDistance": 7.771065999999999,
+                "DriveTime": 769,
+                "LegBegin": {
+                  "Name": "Customer013",
+                  "RouteLocation": {
+                    "Latitude": 39.759404,
+                    "Longitude": -105.045166
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer019",
+                  "RouteLocation": {
+                    "Latitude": 39.699923,
+                    "Longitude": -105.048865
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto Morrison Road",
+                  "Keep right onto West Alameda Avenue",
+                  "Turn left onto South Lincoln Street",
+                  "Turn left onto East Cedar Avenue"
+                ],
+                "DriveDistance": 6.120384,
+                "DriveTime": 593,
+                "LegBegin": {
+                  "Name": "Customer019",
+                  "RouteLocation": {
+                    "Latitude": 39.699923,
+                    "Longitude": -105.048865
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Depot",
+                  "RouteLocation": {
+                    "Latitude": 39.7128,
+                    "Longitude": -104.98728
+                  }
+                }
+              }
+            ],
+            "RoutePath": [
+              [
+                39.712973,
+                -104.987276
+              ],
+              [
+                39.712977,
+                -104.987556
+              ],
+              [
+                39.711148,
+                -104.987595
+              ],
+              [
+                39.711172,
+                -104.990642
+              ],
+              [
+                39.711219,
+                -104.990793
+              ],
+              [
+                39.711223,
+                -104.991604
+              ],
+              [
+                39.71118,
+                -104.991724
+              ],
+              [
+                39.711189,
+                -104.992863
+              ],
+              [
+                39.71123,
+                -104.992982
+              ],
+              [
+                39.711225,
+                -104.996416
+              ],
+              [
+                39.711258,
+                -104.997133
+              ],
+              [
+                39.712277,
+                -104.997643
+              ],
+              [
+                39.713376,
+                -104.998224
+              ],
+              [
+                39.71344,
+                -104.998342
+              ],
+              [
+                39.713433,
+                -104.998533
+              ],
+              [
+                39.713276,
+                -104.999245
+              ],
+              [
+                39.713269,
+                -104.999449
+              ],
+              [
+                39.71331,
+                -104.999644
+              ],
+              [
+                39.71338,
+                -104.999801
+              ],
+              [
+                39.71345,
+                -104.999914
+              ],
+              [
+                39.713642,
+                -105.000142
+              ],
+              [
+                39.713956,
+                -105.000455
+              ],
+              [
+                39.71468,
+                -105.001028
+              ],
+              [
+                39.715423,
+                -105.00154
+              ],
+              [
+                39.715839,
+                -105.001862
+              ],
+              [
+                39.716279,
+                -105.00228
+              ],
+              [
+                39.716594,
+                -105.002648
+              ],
+              [
+                39.717119,
+                -105.003388
+              ],
+              [
+                39.718065,
+                -105.004801
+              ],
+              [
+                39.71847,
+                -105.005363
+              ],
+              [
+                39.71885,
+                -105.005836
+              ],
+              [
+                39.721726,
+                -105.008941
+              ],
+              [
+                39.722215,
+                -105.009571
+              ],
+              [
+                39.723232,
+                -105.010981
+              ],
+              [
+                39.7235,
+                -105.0113
+              ],
+              [
+                39.723952,
+                -105.011793
+              ],
+              [
+                39.724419,
+                -105.012238
+              ],
+              [
+                39.725137,
+                -105.012812
+              ],
+              [
+                39.725581,
+                -105.013133
+              ],
+              [
+                39.726387,
+                -105.013641
+              ],
+              [
+                39.726703,
+                -105.013817
+              ],
+              [
+                39.727414,
+                -105.014137
+              ],
+              [
+                39.729527,
+                -105.014921
+              ],
+              [
+                39.730883,
+                -105.015384
+              ],
+              [
+                39.731382,
+                -105.0155
+              ],
+              [
+                39.731731,
+                -105.01556
+              ],
+              [
+                39.732237,
+                -105.015605
+              ],
+              [
+                39.732753,
+                -105.015577
+              ],
+              [
+                39.733196,
+                -105.015521
+              ],
+              [
+                39.733703,
+                -105.015399
+              ],
+              [
+                39.733999,
+                -105.015307
+              ],
+              [
+                39.734671,
+                -105.015034
+              ],
+              [
+                39.735829,
+                -105.014446
+              ],
+              [
+                39.736305,
+                -105.014248
+              ],
+              [
+                39.736687,
+                -105.014119
+              ],
+              [
+                39.737135,
+                -105.013999
+              ],
+              [
+                39.738177,
+                -105.013859
+              ],
+              [
+                39.738698,
+                -105.01385
+              ],
+              [
+                39.740321,
+                -105.013948
+              ],
+              [
+                39.740603,
+                -105.013995
+              ],
+              [
+                39.741004,
+                -105.0141
+              ],
+              [
+                39.74141,
+                -105.014261
+              ],
+              [
+                39.741621,
+                -105.014364
+              ],
+              [
+                39.741904,
+                -105.014541
+              ],
+              [
+                39.742118,
+                -105.014702
+              ],
+              [
+                39.742429,
+                -105.014964
+              ],
+              [
+                39.744713,
+                -105.01733
+              ],
+              [
+                39.745188,
+                -105.017669
+              ],
+              [
+                39.745418,
+                -105.017796
+              ],
+              [
+                39.745822,
+                -105.017972
+              ],
+              [
+                39.746147,
+                -105.018075
+              ],
+              [
+                39.746507,
+                -105.018137
+              ],
+              [
+                39.747108,
+                -105.018153
+              ],
+              [
+                39.747307,
+                -105.018138
+              ],
+              [
+                39.747706,
+                -105.018061
+              ],
+              [
+                39.748131,
+                -105.01792
+              ],
+              [
+                39.750886,
+                -105.016781
+              ],
+              [
+                39.751618,
+                -105.016406
+              ],
+              [
+                39.75215,
+                -105.016068
+              ],
+              [
+                39.752714,
+                -105.015646
+              ],
+              [
+                39.753516,
+                -105.014873
+              ],
+              [
+                39.753719,
+                -105.014643
+              ],
+              [
+                39.75411,
+                -105.014149
+              ],
+              [
+                39.755483,
+                -105.012261
+              ],
+              [
+                39.755804,
+                -105.011634
+              ],
+              [
+                39.755859,
+                -105.011413
+              ],
+              [
+                39.755852,
+                -105.011225
+              ],
+              [
+                39.755795,
+                -105.011037
+              ],
+              [
+                39.755752,
+                -105.010965
+              ],
+              [
+                39.755643,
+                -105.010855
+              ],
+              [
+                39.755517,
+                -105.010795
+              ],
+              [
+                39.755345,
+                -105.010784
+              ],
+              [
+                39.755191,
+                -105.010856
+              ],
+              [
+                39.75506,
+                -105.011022
+              ],
+              [
+                39.755006,
+                -105.011174
+              ],
+              [
+                39.754984,
+                -105.01136
+              ],
+              [
+                39.755001,
+                -105.011545
+              ],
+              [
+                39.755047,
+                -105.011761
+              ],
+              [
+                39.755183,
+                -105.012198
+              ],
+              [
+                39.755801,
+                -105.013901
+              ],
+              [
+                39.756179,
+                -105.015013
+              ],
+              [
+                39.756451,
+                -105.0162
+              ],
+              [
+                39.756565,
+                -105.016561
+              ],
+              [
+                39.757565,
+                -105.019314
+              ],
+              [
+                39.758042,
+                -105.020548
+              ],
+              [
+                39.758558,
+                -105.021621
+              ],
+              [
+                39.759156,
+                -105.022678
+              ],
+              [
+                39.759272,
+                -105.022914
+              ],
+              [
+                39.75944,
+                -105.023299
+              ],
+              [
+                39.759876,
+                -105.024433
+              ],
+              [
+                39.760271,
+                -105.025249
+              ],
+              [
+                39.763639,
+                -105.025238
+              ],
+              [
+                39.764073,
+                -105.025197
+              ],
+              [
+                39.772304,
+                -105.025195
+              ],
+              [
+                39.776635,
+                -105.02517
+              ],
+              [
+                39.782103,
+                -105.025136
+              ],
+              [
+                39.782097,
+                -105.023973
+              ],
+              [
+                39.782008,
+                -105.023974
+              ],
+              [
+                39.782005,
+                -105.021899
+              ],
+              [
+                39.782006,
+                -105.022815
+              ],
+              [
+                39.780234,
+                -105.022824
+              ],
+              [
+                39.78025,
+                -105.025284
+              ],
+              [
+                39.770528,
+                -105.025314
+              ],
+              [
+                39.766507,
+                -105.025307
+              ],
+              [
+                39.766505,
+                -105.02622
+              ],
+              [
+                39.766507,
+                -105.025307
+              ],
+              [
+                39.764679,
+                -105.025298
+              ],
+              [
+                39.764074,
+                -105.025283
+              ],
+              [
+                39.763639,
+                -105.025238
+              ],
+              [
+                39.760271,
+                -105.025249
+              ],
+              [
+                39.759876,
+                -105.024433
+              ],
+              [
+                39.75944,
+                -105.023299
+              ],
+              [
+                39.759272,
+                -105.022914
+              ],
+              [
+                39.759156,
+                -105.022678
+              ],
+              [
+                39.758558,
+                -105.021621
+              ],
+              [
+                39.758042,
+                -105.020548
+              ],
+              [
+                39.757514,
+                -105.019173
+              ],
+              [
+                39.756565,
+                -105.016561
+              ],
+              [
+                39.756451,
+                -105.0162
+              ],
+              [
+                39.756293,
+                -105.015826
+              ],
+              [
+                39.75841,
+                -105.015843
+              ],
+              [
+                39.758403,
+                -105.011811
+              ],
+              [
+                39.758198,
+                -105.011547
+              ],
+              [
+                39.756847,
+                -105.009786
+              ],
+              [
+                39.755802,
+                -105.008402
+              ],
+              [
+                39.754369,
+                -105.006546
+              ],
+              [
+                39.75391,
+                -105.005964
+              ],
+              [
+                39.753755,
+                -105.005822
+              ],
+              [
+                39.752611,
+                -105.004355
+              ],
+              [
+                39.75249,
+                -105.004118
+              ],
+              [
+                39.751623,
+                -105.002986
+              ],
+              [
+                39.751541,
+                -105.003064
+              ],
+              [
+                39.751008,
+                -105.003745
+              ],
+              [
+                39.751013,
+                -105.003816
+              ],
+              [
+                39.75033,
+                -105.004739
+              ],
+              [
+                39.750213,
+                -105.004758
+              ],
+              [
+                39.750078,
+                -105.004934
+              ],
+              [
+                39.749628,
+                -105.004344
+              ],
+              [
+                39.749246,
+                -105.003983
+              ],
+              [
+                39.74844,
+                -105.003357
+              ],
+              [
+                39.747622,
+                -105.002661
+              ],
+              [
+                39.746408,
+                -105.001433
+              ],
+              [
+                39.745844,
+                -105.000999
+              ],
+              [
+                39.745379,
+                -105.000758
+              ],
+              [
+                39.745256,
+                -105.000725
+              ],
+              [
+                39.744982,
+                -105.000666
+              ],
+              [
+                39.743689,
+                -105.000556
+              ],
+              [
+                39.743187,
+                -105.000425
+              ],
+              [
+                39.742979,
+                -105.000353
+              ],
+              [
+                39.741794,
+                -104.999787
+              ],
+              [
+                39.740191,
+                -104.998896
+              ],
+              [
+                39.740018,
+                -104.998785
+              ],
+              [
+                39.738123,
+                -104.997397
+              ],
+              [
+                39.73686,
+                -104.996475
+              ],
+              [
+                39.735727,
+                -104.995631
+              ],
+              [
+                39.733656,
+                -104.994118
+              ],
+              [
+                39.729732,
+                -104.991226
+              ],
+              [
+                39.728934,
+                -104.990585
+              ],
+              [
+                39.72825,
+                -104.989939
+              ],
+              [
+                39.727963,
+                -104.989696
+              ],
+              [
+                39.727708,
+                -104.989416
+              ],
+              [
+                39.727455,
+                -104.989067
+              ],
+              [
+                39.727261,
+                -104.988738
+              ],
+              [
+                39.726601,
+                -104.987427
+              ],
+              [
+                39.72564,
+                -104.987464
+              ],
+              [
+                39.725596,
+                -104.976421
+              ],
+              [
+                39.723464,
+                -104.976413
+              ],
+              [
+                39.725596,
+                -104.976421
+              ],
+              [
+                39.725579,
+                -104.972937
+              ],
+              [
+                39.729075,
+                -104.972949
+              ],
+              [
+                39.732055,
+                -104.972959
+              ],
+              [
+                39.732066,
+                -104.970328
+              ],
+              [
+                39.732055,
+                -104.972959
+              ],
+              [
+                39.736725,
+                -104.973009
+              ],
+              [
+                39.738418,
+                -104.973013
+              ],
+              [
+                39.738416,
+                -104.971857
+              ],
+              [
+                39.73898,
+                -104.971861
+              ],
+              [
+                39.740024,
+                -104.971867
+              ],
+              [
+                39.740022,
+                -104.979905
+              ],
+              [
+                39.740024,
+                -104.98111
+              ],
+              [
+                39.740052,
+                -104.983591
+              ],
+              [
+                39.740059,
+                -104.984863
+              ],
+              [
+                39.740059,
+                -104.985368
+              ],
+              [
+                39.740109,
+                -104.985497
+              ],
+              [
+                39.740138,
+                -104.986127
+              ],
+              [
+                39.740155,
+                -104.987825
+              ],
+              [
+                39.740182,
+                -104.987943
+              ],
+              [
+                39.740272,
+                -104.988124
+              ],
+              [
+                39.740527,
+                -104.988489
+              ],
+              [
+                39.740613,
+                -104.988666
+              ],
+              [
+                39.740638,
+                -104.988813
+              ],
+              [
+                39.740634,
+                -104.989026
+              ],
+              [
+                39.740571,
+                -104.989262
+              ],
+              [
+                39.740498,
+                -104.989396
+              ],
+              [
+                39.740218,
+                -104.989745
+              ],
+              [
+                39.740155,
+                -104.989883
+              ],
+              [
+                39.740117,
+                -104.990132
+              ],
+              [
+                39.740134,
+                -104.993039
+              ],
+              [
+                39.740141,
+                -104.995271
+              ],
+              [
+                39.740169,
+                -104.998138
+              ],
+              [
+                39.742328,
+                -104.999341
+              ],
+              [
+                39.743558,
+                -104.999903
+              ],
+              [
+                39.743771,
+                -104.999965
+              ],
+              [
+                39.743998,
+                -105.000003
+              ],
+              [
+                39.74557,
+                -105.000116
+              ],
+              [
+                39.745746,
+                -105.000157
+              ],
+              [
+                39.74583,
+                -105.0002
+              ],
+              [
+                39.746599,
+                -105.00074
+              ],
+              [
+                39.746698,
+                -105.000827
+              ],
+              [
+                39.746902,
+                -105.001074
+              ],
+              [
+                39.747115,
+                -105.001386
+              ],
+              [
+                39.747685,
+                -105.002314
+              ],
+              [
+                39.747952,
+                -105.002653
+              ],
+              [
+                39.748161,
+                -105.002842
+              ],
+              [
+                39.748754,
+                -105.003312
+              ],
+              [
+                39.749356,
+                -105.003764
+              ],
+              [
+                39.749657,
+                -105.004058
+              ],
+              [
+                39.749876,
+                -105.004316
+              ],
+              [
+                39.750336,
+                -105.00492
+              ],
+              [
+                39.751365,
+                -105.006341
+              ],
+              [
+                39.751705,
+                -105.006743
+              ],
+              [
+                39.75197,
+                -105.006981
+              ],
+              [
+                39.752475,
+                -105.007356
+              ],
+              [
+                39.752753,
+                -105.007608
+              ],
+              [
+                39.752998,
+                -105.007879
+              ],
+              [
+                39.753211,
+                -105.008154
+              ],
+              [
+                39.753389,
+                -105.008452
+              ],
+              [
+                39.754714,
+                -105.011136
+              ],
+              [
+                39.755183,
+                -105.012198
+              ],
+              [
+                39.756073,
+                -105.014684
+              ],
+              [
+                39.756179,
+                -105.015013
+              ],
+              [
+                39.756371,
+                -105.015827
+              ],
+              [
+                39.760577,
+                -105.01585
+              ],
+              [
+                39.756371,
+                -105.015827
+              ],
+              [
+                39.756451,
+                -105.0162
+              ],
+              [
+                39.756565,
+                -105.016561
+              ],
+              [
+                39.757565,
+                -105.019314
+              ],
+              [
+                39.758042,
+                -105.020548
+              ],
+              [
+                39.758452,
+                -105.021402
+              ],
+              [
+                39.758469,
+                -105.022082
+              ],
+              [
+                39.758492,
+                -105.025296
+              ],
+              [
+                39.758513,
+                -105.034625
+              ],
+              [
+                39.758493,
+                -105.044021
+              ],
+              [
+                39.759411,
+                -105.04402
+              ],
+              [
+                39.759409,
+                -105.045166
+              ],
+              [
+                39.759407,
+                -105.046348
+              ],
+              [
+                39.758488,
+                -105.046346
+              ],
+              [
+                39.758473,
+                -105.05325
+              ],
+              [
+                39.75162,
+                -105.053248
+              ],
+              [
+                39.74511,
+                -105.053232
+              ],
+              [
+                39.743224,
+                -105.05322
+              ],
+              [
+                39.742502,
+                -105.053191
+              ],
+              [
+                39.742448,
+                -105.053222
+              ],
+              [
+                39.741793,
+                -105.053223
+              ],
+              [
+                39.741745,
+                -105.053186
+              ],
+              [
+                39.741079,
+                -105.053214
+              ],
+              [
+                39.740638,
+                -105.053212
+              ],
+              [
+                39.740499,
+                -105.053266
+              ],
+              [
+                39.7398,
+                -105.053273
+              ],
+              [
+                39.739701,
+                -105.05323
+              ],
+              [
+                39.73914,
+                -105.053223
+              ],
+              [
+                39.736764,
+                -105.053234
+              ],
+              [
+                39.735716,
+                -105.053278
+              ],
+              [
+                39.734438,
+                -105.053288
+              ],
+              [
+                39.733485,
+                -105.053256
+              ],
+              [
+                39.72837,
+                -105.053259
+              ],
+              [
+                39.728219,
+                -105.053315
+              ],
+              [
+                39.726625,
+                -105.053333
+              ],
+              [
+                39.725423,
+                -105.053371
+              ],
+              [
+                39.723733,
+                -105.053335
+              ],
+              [
+                39.723122,
+                -105.053279
+              ],
+              [
+                39.718391,
+                -105.053292
+              ],
+              [
+                39.715538,
+                -105.053274
+              ],
+              [
+                39.713835,
+                -105.053299
+              ],
+              [
+                39.711401,
+                -105.053249
+              ],
+              [
+                39.708648,
+                -105.053268
+              ],
+              [
+                39.707694,
+                -105.053247
+              ],
+              [
+                39.70581,
+                -105.053245
+              ],
+              [
+                39.700452,
+                -105.05325
+              ],
+              [
+                39.700416,
+                -105.048152
+              ],
+              [
+                39.699914,
+                -105.048854
+              ],
+              [
+                39.701365,
+                -105.046795
+              ],
+              [
+                39.702921,
+                -105.044549
+              ],
+              [
+                39.702921,
+                -105.044492
+              ],
+              [
+                39.70324,
+                -105.044035
+              ],
+              [
+                39.703295,
+                -105.044011
+              ],
+              [
+                39.703973,
+                -105.043078
+              ],
+              [
+                39.706759,
+                -105.039127
+              ],
+              [
+                39.707998,
+                -105.037331
+              ],
+              [
+                39.710713,
+                -105.033483
+              ],
+              [
+                39.710717,
+                -105.033403
+              ],
+              [
+                39.711143,
+                -105.032727
+              ],
+              [
+                39.711146,
+                -105.03241
+              ],
+              [
+                39.711115,
+                -105.03167
+              ],
+              [
+                39.711104,
+                -105.030867
+              ],
+              [
+                39.711091,
+                -105.026413
+              ],
+              [
+                39.711066,
+                -105.025692
+              ],
+              [
+                39.711083,
+                -105.023335
+              ],
+              [
+                39.71111,
+                -105.022995
+              ],
+              [
+                39.711152,
+                -105.022707
+              ],
+              [
+                39.711172,
+                -105.015716
+              ],
+              [
+                39.711209,
+                -105.012108
+              ],
+              [
+                39.711185,
+                -105.003904
+              ],
+              [
+                39.711185,
+                -105.001655
+              ],
+              [
+                39.711207,
+                -105.001544
+              ],
+              [
+                39.711159,
+                -105.001165
+              ],
+              [
+                39.711122,
+                -105.000611
+              ],
+              [
+                39.711126,
+                -104.999742
+              ],
+              [
+                39.711111,
+                -104.999409
+              ],
+              [
+                39.711106,
+                -104.997074
+              ],
+              [
+                39.711147,
+                -104.995883
+              ],
+              [
+                39.711142,
+                -104.992982
+              ],
+              [
+                39.711189,
+                -104.992863
+              ],
+              [
+                39.71118,
+                -104.991724
+              ],
+              [
+                39.711139,
+                -104.991615
+              ],
+              [
+                39.711136,
+                -104.991156
+              ],
+              [
+                39.711134,
+                -104.99079
+              ],
+              [
+                39.711172,
+                -104.990642
+              ],
+              [
+                39.711151,
+                -104.988132
+              ],
+              [
+                39.711155,
+                -104.986373
+              ],
+              [
+                39.712475,
+                -104.986346
+              ],
+              [
+                39.712958,
+                -104.986296
+              ],
+              [
+                39.712973,
+                -104.987276
+              ]
+            ]
+          }
+        },
+        {
+          "Vehicle_id": "Vehicle03",
+          "OptimizedStops": [
+            {
+              "Arrival": null,
+              "Departure": "8:00:00 3/22/2024",
+              "Distance": null,
+              "Duration": null,
+              "IsDuplicate": false,
+              "Name": "Depot",
+              "RouteLocation": {
+                "Latitude": 39.712797,
+                "Longitude": -104.987282
+              },
+              "StopTimeMinutes": 0,
+              "time_windows": null,
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "9:00:00 3/22/2024",
+              "Departure": "10:00:00 3/22/2024",
+              "Distance": "3.36 miles (5.41 km)",
+              "Duration": "10 minutes, 24 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer010",
+              "RouteLocation": {
+                "Latitude": 39.758643,
+                "Longitude": -104.981753
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                }
+              ],
+              "waiting_time": 2976
+            },
+            {
+              "Arrival": "10:03:20 3/22/2024",
+              "Departure": "10:33:20 3/22/2024",
+              "Distance": "0.92 miles (1.48 km)",
+              "Duration": "3 minutes, 20 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer011",
+              "RouteLocation": {
+                "Latitude": 39.763568,
+                "Longitude": -104.969632
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "10:36:48 3/22/2024",
+              "Departure": "11:06:48 3/22/2024",
+              "Distance": "0.94 miles (1.51 km)",
+              "Duration": "3 minutes, 28 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer007",
+              "RouteLocation": {
+                "Latitude": 39.764119,
+                "Longitude": -104.953665
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "11:08:36 3/22/2024",
+              "Departure": "12:08:36 3/22/2024",
+              "Distance": "0.46 miles (0.75 km)",
+              "Duration": "1 minutes, 47 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer006",
+              "RouteLocation": {
+                "Latitude": 39.763766,
+                "Longitude": -104.946255
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "09:00",
+                  "latest": "12:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "12:15:58 3/22/2024",
+              "Departure": "13:15:58 3/22/2024",
+              "Distance": "2.30 miles (3.69 km)",
+              "Duration": "7 minutes, 22 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer028",
+              "RouteLocation": {
+                "Latitude": 39.742925,
+                "Longitude": -104.962232
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "12:00",
+                  "latest": "15:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "13:19:39 3/22/2024",
+              "Departure": "14:19:39 3/22/2024",
+              "Distance": "0.91 miles (1.46 km)",
+              "Duration": "3 minutes, 41 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer026",
+              "RouteLocation": {
+                "Latitude": 39.735433,
+                "Longitude": -104.969525
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "12:00",
+                  "latest": "15:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "14:22:57 3/22/2024",
+              "Departure": "14:52:57 3/22/2024",
+              "Distance": "1.05 miles (1.69 km)",
+              "Duration": "3 minutes, 18 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer023",
+              "RouteLocation": {
+                "Latitude": 39.737329,
+                "Longitude": -104.986149
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "12:00",
+                  "latest": "15:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "15:00:02 3/22/2024",
+              "Departure": "15:30:02 3/22/2024",
+              "Distance": "0.64 miles (1.03 km)",
+              "Duration": "1 minutes, 51 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer015",
+              "RouteLocation": {
+                "Latitude": 39.744377,
+                "Longitude": -104.988027
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 313
+            },
+            {
+              "Arrival": "15:33:25 3/22/2024",
+              "Departure": "16:33:25 3/22/2024",
+              "Distance": "1.08 miles (1.74 km)",
+              "Duration": "3 minutes, 23 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer016",
+              "RouteLocation": {
+                "Latitude": 39.753799,
+                "Longitude": -104.991493
+              },
+              "StopTimeMinutes": 60,
+              "time_windows": [
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "16:39:21 3/22/2024",
+              "Departure": "17:09:21 3/22/2024",
+              "Distance": "2.49 miles (4.01 km)",
+              "Duration": "5 minutes, 55 seconds",
+              "IsDuplicate": false,
+              "Name": "Customer017",
+              "RouteLocation": {
+                "Latitude": 39.7491,
+                "Longitude": -105.022071
+              },
+              "StopTimeMinutes": 30,
+              "time_windows": [
+                {
+                  "earliest": "15:00",
+                  "latest": "18:00"
+                }
+              ],
+              "waiting_time": 0
+            },
+            {
+              "Arrival": "17:16:42 3/22/2024",
+              "Departure": "17:16:42 3/22/2024",
+              "Distance": "4.05 miles (6.51 km)",
+              "Duration": "7 minutes, 21 seconds",
+              "IsDuplicate": false,
+              "Name": "Depot",
+              "RouteLocation": {
+                "Latitude": 39.712797,
+                "Longitude": -104.987282
+              },
+              "StopTimeMinutes": 0,
+              "time_windows": null,
+              "waiting_time": 0
+            }
+          ],
+          "Route": {
+            "DriveDistance": 29.291749,
+            "DriveDistanceUnit": "Kilometer",
+            "DriveTime": 3114,
+            "DriveTimeUnit": "Second",
+            "RouteLegs": [
+              {
+                "Directions": [
+                  "Continue onto East Cedar Avenue",
+                  "Turn left onto South Lincoln Street",
+                  "Keep left onto Lincoln Street",
+                  "Turn left onto 20th Street",
+                  "Keep right onto Arapahoe Street"
+                ],
+                "DriveDistance": 5.412007,
+                "DriveTime": 624,
+                "LegBegin": {
+                  "Name": "Depot",
+                  "RouteLocation": {
+                    "Latitude": 39.7128,
+                    "Longitude": -104.98728
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer010",
+                  "RouteLocation": {
+                    "Latitude": 39.758643,
+                    "Longitude": -104.981753
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Arapahoe Street",
+                  "Turn right onto Downing Street",
+                  "Turn left onto East Bruce Randolph Avenue",
+                  "Turn right onto Humboldt Street"
+                ],
+                "DriveDistance": 1.4816839999999998,
+                "DriveTime": 200,
+                "LegBegin": {
+                  "Name": "Customer010",
+                  "RouteLocation": {
+                    "Latitude": 39.758643,
+                    "Longitude": -104.981753
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer011",
+                  "RouteLocation": {
+                    "Latitude": 39.763568,
+                    "Longitude": -104.969632
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto Humboldt Street",
+                  "Turn right onto East Bruce Randolph Avenue",
+                  "Turn right onto Fillmore Street"
+                ],
+                "DriveDistance": 1.5125979999999999,
+                "DriveTime": 208,
+                "LegBegin": {
+                  "Name": "Customer011",
+                  "RouteLocation": {
+                    "Latitude": 39.763568,
+                    "Longitude": -104.969632
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer007",
+                  "RouteLocation": {
+                    "Latitude": 39.764119,
+                    "Longitude": -104.953665
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto Fillmore Street",
+                  "Turn right onto East Bruce Randolph Avenue",
+                  "Turn right onto Madison Street"
+                ],
+                "DriveDistance": 0.7481339999999999,
+                "DriveTime": 107,
+                "LegBegin": {
+                  "Name": "Customer007",
+                  "RouteLocation": {
+                    "Latitude": 39.764119,
+                    "Longitude": -104.953665
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer006",
+                  "RouteLocation": {
+                    "Latitude": 39.763766,
+                    "Longitude": -104.946255
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Madison Street",
+                  "Turn right onto Martin Luther King Jr Boulevard",
+                  "Turn left onto York Street",
+                  "Turn right onto East 18th Avenue",
+                  "Turn left onto Vine Street"
+                ],
+                "DriveDistance": 3.6941579999999994,
+                "DriveTime": 442,
+                "LegBegin": {
+                  "Name": "Customer006",
+                  "RouteLocation": {
+                    "Latitude": 39.763766,
+                    "Longitude": -104.946255
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer028",
+                  "RouteLocation": {
+                    "Latitude": 39.742925,
+                    "Longitude": -104.962232
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Vine Street",
+                  "Turn right onto East 16th Avenue",
+                  "Turn left onto Franklin Street",
+                  "Turn right onto East 13th Avenue",
+                  "Turn left onto Humboldt Street"
+                ],
+                "DriveDistance": 1.4626810000000003,
+                "DriveTime": 221,
+                "LegBegin": {
+                  "Name": "Customer028",
+                  "RouteLocation": {
+                    "Latitude": 39.742925,
+                    "Longitude": -104.962232
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer026",
+                  "RouteLocation": {
+                    "Latitude": 39.735433,
+                    "Longitude": -104.969525
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Humboldt Street",
+                  "Turn right onto East 12th Avenue",
+                  "Turn right onto Downing Street",
+                  "Turn left onto East 13th Avenue",
+                  "Turn right onto Lincoln Street"
+                ],
+                "DriveDistance": 1.693378,
+                "DriveTime": 198,
+                "LegBegin": {
+                  "Name": "Customer026",
+                  "RouteLocation": {
+                    "Latitude": 39.735433,
+                    "Longitude": -104.969525
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer023",
+                  "RouteLocation": {
+                    "Latitude": 39.737329,
+                    "Longitude": -104.986149
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Lincoln Street",
+                  "Turn left onto East 18th Avenue"
+                ],
+                "DriveDistance": 1.026587,
+                "DriveTime": 111,
+                "LegBegin": {
+                  "Name": "Customer023",
+                  "RouteLocation": {
+                    "Latitude": 39.737329,
+                    "Longitude": -104.986149
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer015",
+                  "RouteLocation": {
+                    "Latitude": 39.744377,
+                    "Longitude": -104.988027
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Tremont Place",
+                  "Turn left onto 17th Street",
+                  "Turn left onto Lincoln Street",
+                  "Turn left onto 20th Street",
+                  "Continue onto 20th Street",
+                  "Turn right onto Lawrence Street",
+                  "Turn left onto 21st Street",
+                  "Turn left onto Larimer Street"
+                ],
+                "DriveDistance": 1.738706,
+                "DriveTime": 204,
+                "LegBegin": {
+                  "Name": "Customer015",
+                  "RouteLocation": {
+                    "Latitude": 39.744377,
+                    "Longitude": -104.988027
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer016",
+                  "RouteLocation": {
+                    "Latitude": 39.753799,
+                    "Longitude": -104.991493
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Continue onto Larimer Street",
+                  "Turn right onto 20th Street",
+                  "Turn left toward I 25, US 6, US 85",
+                  "Keep right and drive toward 23rd Avenue, 20th Avenue",
+                  "Keep right",
+                  "Continue onto Mile High Stadium Circle",
+                  "Turn right onto Decatur Street"
+                ],
+                "DriveDistance": 4.010574,
+                "DriveTime": 356,
+                "LegBegin": {
+                  "Name": "Customer016",
+                  "RouteLocation": {
+                    "Latitude": 39.753799,
+                    "Longitude": -104.991493
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Customer017",
+                  "RouteLocation": {
+                    "Latitude": 39.7491,
+                    "Longitude": -105.022071
+                  }
+                }
+              },
+              {
+                "Directions": [
+                  "Make a U-turn onto Decatur Street",
+                  "Turn left onto Mile High Stadium Circle",
+                  "Turn slight right toward I 25 South",
+                  "Keep right and take CO 26 toward Alameda Avenue",
+                  "Turn left onto South Lincoln Street",
+                  "Turn left onto East Cedar Avenue"
+                ],
+                "DriveDistance": 6.5112429999999994,
+                "DriveTime": 441,
+                "LegBegin": {
+                  "Name": "Customer017",
+                  "RouteLocation": {
+                    "Latitude": 39.7491,
+                    "Longitude": -105.022071
+                  }
+                },
+                "LegEnd": {
+                  "Name": "Depot",
+                  "RouteLocation": {
+                    "Latitude": 39.7128,
+                    "Longitude": -104.98728
+                  }
+                }
+              }
+            ],
+            "RoutePath": [
+              [
+                39.712973,
+                -104.987276
+              ],
+              [
+                39.712958,
+                -104.986296
+              ],
+              [
+                39.713269,
+                -104.986273
+              ],
+              [
+                39.714761,
+                -104.986249
+              ],
+              [
+                39.718349,
+                -104.986228
+              ],
+              [
+                39.725238,
+                -104.98626
+              ],
+              [
+                39.726542,
+                -104.986153
+              ],
+              [
+                39.731522,
+                -104.986139
+              ],
+              [
+                39.736845,
+                -104.986133
+              ],
+              [
+                39.738455,
+                -104.986131
+              ],
+              [
+                39.739259,
+                -104.98619
+              ],
+              [
+                39.740009,
+                -104.98613
+              ],
+              [
+                39.741681,
+                -104.986109
+              ],
+              [
+                39.744143,
+                -104.986112
+              ],
+              [
+                39.745485,
+                -104.986115
+              ],
+              [
+                39.746784,
+                -104.986115
+              ],
+              [
+                39.747524,
+                -104.986111
+              ],
+              [
+                39.747956,
+                -104.98611
+              ],
+              [
+                39.748919,
+                -104.987378
+              ],
+              [
+                39.754279,
+                -104.987385
+              ],
+              [
+                39.758641,
+                -104.98175
+              ],
+              [
+                39.763753,
+                -104.975151
+              ],
+              [
+                39.764933,
+                -104.973651
+              ],
+              [
+                39.764989,
+                -104.973483
+              ],
+              [
+                39.76498,
+                -104.973395
+              ],
+              [
+                39.764954,
+                -104.973349
+              ],
+              [
+                39.764514,
+                -104.97335
+              ],
+              [
+                39.764508,
+                -104.969656
+              ],
+              [
+                39.763568,
+                -104.969659
+              ],
+              [
+                39.764508,
+                -104.969656
+              ],
+              [
+                39.764497,
+                -104.960172
+              ],
+              [
+                39.764481,
+                -104.958571
+              ],
+              [
+                39.764474,
+                -104.953648
+              ],
+              [
+                39.764119,
+                -104.953649
+              ],
+              [
+                39.764474,
+                -104.953648
+              ],
+              [
+                39.764464,
+                -104.946269
+              ],
+              [
+                39.763766,
+                -104.946272
+              ],
+              [
+                39.761923,
+                -104.946267
+              ],
+              [
+                39.761938,
+                -104.948728
+              ],
+              [
+                39.761972,
+                -104.951187
+              ],
+              [
+                39.761987,
+                -104.959762
+              ],
+              [
+                39.754465,
+                -104.95977
+              ],
+              [
+                39.750722,
+                -104.959755
+              ],
+              [
+                39.746947,
+                -104.959794
+              ],
+              [
+                39.744762,
+                -104.959788
+              ],
+              [
+                39.744795,
+                -104.960004
+              ],
+              [
+                39.744803,
+                -104.962248
+              ],
+              [
+                39.742925,
+                -104.962251
+              ],
+              [
+                39.741622,
+                -104.962253
+              ],
+              [
+                39.741641,
+                -104.968458
+              ],
+              [
+                39.736835,
+                -104.968475
+              ],
+              [
+                39.736885,
+                -104.969534
+              ],
+              [
+                39.735433,
+                -104.969522
+              ],
+              [
+                39.735174,
+                -104.969519
+              ],
+              [
+                39.735165,
+                -104.972992
+              ],
+              [
+                39.73688,
+                -104.973011
+              ],
+              [
+                39.736888,
+                -104.983329
+              ],
+              [
+                39.736846,
+                -104.983796
+              ],
+              [
+                39.736845,
+                -104.986133
+              ],
+              [
+                39.737329,
+                -104.986132
+              ],
+              [
+                39.738455,
+                -104.986131
+              ],
+              [
+                39.739259,
+                -104.98619
+              ],
+              [
+                39.740138,
+                -104.986127
+              ],
+              [
+                39.742342,
+                -104.986109
+              ],
+              [
+                39.744143,
+                -104.986112
+              ],
+              [
+                39.744884,
+                -104.986114
+              ],
+              [
+                39.744888,
+                -104.987253
+              ],
+              [
+                39.744739,
+                -104.987519
+              ],
+              [
+                39.744365,
+                -104.988012
+              ],
+              [
+                39.744104,
+                -104.988354
+              ],
+              [
+                39.743364,
+                -104.987395
+              ],
+              [
+                39.743288,
+                -104.987256
+              ],
+              [
+                39.743273,
+                -104.987185
+              ],
+              [
+                39.743271,
+                -104.986109
+              ],
+              [
+                39.744143,
+                -104.986112
+              ],
+              [
+                39.745485,
+                -104.986115
+              ],
+              [
+                39.746784,
+                -104.986115
+              ],
+              [
+                39.747524,
+                -104.986111
+              ],
+              [
+                39.747956,
+                -104.98611
+              ],
+              [
+                39.748919,
+                -104.987378
+              ],
+              [
+                39.749923,
+                -104.988674
+              ],
+              [
+                39.75161,
+                -104.990849
+              ],
+              [
+                39.752266,
+                -104.991715
+              ],
+              [
+                39.753202,
+                -104.990505
+              ],
+              [
+                39.753875,
+                -104.991375
+              ],
+              [
+                39.753792,
+                -104.991483
+              ],
+              [
+                39.752935,
+                -104.992597
+              ],
+              [
+                39.754988,
+                -104.995157
+              ],
+              [
+                39.755143,
+                -104.99527
+              ],
+              [
+                39.756011,
+                -104.996425
+              ],
+              [
+                39.757742,
+                -104.998539
+              ],
+              [
+                39.758502,
+                -104.999504
+              ],
+              [
+                39.758669,
+                -104.999738
+              ],
+              [
+                39.758889,
+                -105.0001
+              ],
+              [
+                39.759704,
+                -105.001702
+              ],
+              [
+                39.75975,
+                -105.001841
+              ],
+              [
+                39.76139,
+                -105.005165
+              ],
+              [
+                39.761435,
+                -105.005232
+              ],
+              [
+                39.760083,
+                -105.00663
+              ],
+              [
+                39.759356,
+                -105.007577
+              ],
+              [
+                39.758619,
+                -105.0084
+              ],
+              [
+                39.758096,
+                -105.00911
+              ],
+              [
+                39.757098,
+                -105.010387
+              ],
+              [
+                39.75573,
+                -105.012256
+              ],
+              [
+                39.755574,
+                -105.012612
+              ],
+              [
+                39.755138,
+                -105.013229
+              ],
+              [
+                39.754387,
+                -105.014498
+              ],
+              [
+                39.753958,
+                -105.01507
+              ],
+              [
+                39.753604,
+                -105.015456
+              ],
+              [
+                39.753195,
+                -105.015824
+              ],
+              [
+                39.751491,
+                -105.017264
+              ],
+              [
+                39.751237,
+                -105.017377
+              ],
+              [
+                39.750304,
+                -105.017563
+              ],
+              [
+                39.749862,
+                -105.01767
+              ],
+              [
+                39.749572,
+                -105.017764
+              ],
+              [
+                39.748113,
+                -105.018406
+              ],
+              [
+                39.747927,
+                -105.01846
+              ],
+              [
+                39.747797,
+                -105.018493
+              ],
+              [
+                39.747667,
+                -105.018575
+              ],
+              [
+                39.747625,
+                -105.018675
+              ],
+              [
+                39.747597,
+                -105.018975
+              ],
+              [
+                39.747594,
+                -105.02208
+              ],
+              [
+                39.7491,
+                -105.022083
+              ],
+              [
+                39.747594,
+                -105.02208
+              ],
+              [
+                39.747597,
+                -105.018975
+              ],
+              [
+                39.747541,
+                -105.018734
+              ],
+              [
+                39.747489,
+                -105.01864
+              ],
+              [
+                39.747386,
+                -105.0186
+              ],
+              [
+                39.746713,
+                -105.01861
+              ],
+              [
+                39.746347,
+                -105.01858
+              ],
+              [
+                39.746179,
+                -105.018533
+              ],
+              [
+                39.746012,
+                -105.018476
+              ],
+              [
+                39.745513,
+                -105.01823
+              ],
+              [
+                39.745118,
+                -105.01798
+              ],
+              [
+                39.744734,
+                -105.017669
+              ],
+              [
+                39.744448,
+                -105.017344
+              ],
+              [
+                39.743429,
+                -105.016331
+              ],
+              [
+                39.74304,
+                -105.015867
+              ],
+              [
+                39.742543,
+                -105.015331
+              ],
+              [
+                39.742188,
+                -105.015005
+              ],
+              [
+                39.741714,
+                -105.014652
+              ],
+              [
+                39.74156,
+                -105.014563
+              ],
+              [
+                39.741328,
+                -105.014449
+              ],
+              [
+                39.740758,
+                -105.014248
+              ],
+              [
+                39.740389,
+                -105.014168
+              ],
+              [
+                39.740145,
+                -105.014139
+              ],
+              [
+                39.738816,
+                -105.014068
+              ],
+              [
+                39.73824,
+                -105.014065
+              ],
+              [
+                39.737456,
+                -105.014165
+              ],
+              [
+                39.737152,
+                -105.01429
+              ],
+              [
+                39.736684,
+                -105.014422
+              ],
+              [
+                39.73619,
+                -105.014601
+              ],
+              [
+                39.735761,
+                -105.014782
+              ],
+              [
+                39.734483,
+                -105.015429
+              ],
+              [
+                39.733975,
+                -105.015622
+              ],
+              [
+                39.733438,
+                -105.01577
+              ],
+              [
+                39.733013,
+                -105.015841
+              ],
+              [
+                39.732303,
+                -105.015882
+              ],
+              [
+                39.731791,
+                -105.015854
+              ],
+              [
+                39.731242,
+                -105.015729
+              ],
+              [
+                39.730845,
+                -105.015617
+              ],
+              [
+                39.728843,
+                -105.014939
+              ],
+              [
+                39.728146,
+                -105.014663
+              ],
+              [
+                39.727441,
+                -105.014411
+              ],
+              [
+                39.72675,
+                -105.014125
+              ],
+              [
+                39.726377,
+                -105.013947
+              ],
+              [
+                39.725624,
+                -105.01348
+              ],
+              [
+                39.724933,
+                -105.012976
+              ],
+              [
+                39.724269,
+                -105.012396
+              ],
+              [
+                39.723775,
+                -105.011886
+              ],
+              [
+                39.723079,
+                -105.011065
+              ],
+              [
+                39.722252,
+                -105.009908
+              ],
+              [
+                39.721746,
+                -105.00925
+              ],
+              [
+                39.721173,
+                -105.008613
+              ],
+              [
+                39.720743,
+                -105.008179
+              ],
+              [
+                39.719242,
+                -105.006572
+              ],
+              [
+                39.718806,
+                -105.006088
+              ],
+              [
+                39.718491,
+                -105.00571
+              ],
+              [
+                39.71812,
+                -105.005218
+              ],
+              [
+                39.716881,
+                -105.003383
+              ],
+              [
+                39.716552,
+                -105.002922
+              ],
+              [
+                39.716179,
+                -105.002469
+              ],
+              [
+                39.715757,
+                -105.002064
+              ],
+              [
+                39.715332,
+                -105.001736
+              ],
+              [
+                39.714992,
+                -105.001517
+              ],
+              [
+                39.714488,
+                -105.00125
+              ],
+              [
+                39.713088,
+                -105.000595
+              ],
+              [
+                39.71217,
+                -105.000106
+              ],
+              [
+                39.711261,
+                -104.999667
+              ],
+              [
+                39.711175,
+                -104.999583
+              ],
+              [
+                39.711111,
+                -104.999409
+              ],
+              [
+                39.711106,
+                -104.997074
+              ],
+              [
+                39.711147,
+                -104.995883
+              ],
+              [
+                39.711142,
+                -104.992982
+              ],
+              [
+                39.711189,
+                -104.992863
+              ],
+              [
+                39.71118,
+                -104.991724
+              ],
+              [
+                39.711139,
+                -104.991615
+              ],
+              [
+                39.711136,
+                -104.991156
+              ],
+              [
+                39.711134,
+                -104.99079
+              ],
+              [
+                39.711172,
+                -104.990642
+              ],
+              [
+                39.711151,
+                -104.988132
+              ],
+              [
+                39.711155,
+                -104.986373
+              ],
+              [
+                39.712475,
+                -104.986346
+              ],
+              [
+                39.712958,
+                -104.986296
+              ],
+              [
+                39.712973,
+                -104.987276
+              ]
+            ]
+          }
+        }
+      ],
+      "UnassignedStops": null
+    }
+  ]
+}

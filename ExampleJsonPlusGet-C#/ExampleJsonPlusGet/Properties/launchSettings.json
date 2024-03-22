@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExampleJsonPlusGet": {
+      "commandName": "Project",
+      "commandLineArgs": "\"..\\..\\..\\..\\..\\RSIPlus30-request-8hr.json\" \"..\\..\\..\\..\\..\\RSIPlus30-result-8hr.json\" "
+    }
+  }
+}

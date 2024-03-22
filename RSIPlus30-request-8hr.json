@@ -1,0 +1,420 @@
+{
+	"Locations": [
+		{
+			"Name": "Depot",
+			"Latitude": 39.712797,
+			"Longitude": -104.987282
+		},
+		{
+			"Name": "Customer001",
+			"Latitude": 39.761975,
+			"Longitude": -104.907292,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				},
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer002",
+			"Latitude": 39.765176,
+			"Longitude": -104.919965,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				},
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer003",
+			"Latitude": 39.781996,
+			"Longitude": -105.021899,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				},
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer004",
+			"Latitude": 39.750206,
+			"Longitude": -104.933919,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				},
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer005",
+			"Latitude": 39.762898,
+			"Longitude": -104.934401,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				},
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer006",
+			"Latitude": 39.763766,
+			"Longitude": -104.946255,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer007",
+			"Latitude": 39.764119,
+			"Longitude": -104.953665,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer008",
+			"Latitude": 39.770528,
+			"Longitude": -105.025323,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer009",
+			"Latitude": 39.758191,
+			"Longitude": -105.011556,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer010",
+			"Latitude": 39.758643,
+			"Longitude": -104.981753,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer011",
+			"Latitude": 39.763568,
+			"Longitude": -104.969632,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer012",
+			"Latitude": 39.7665,
+			"Longitude": -105.02622,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "09:00",
+					"latest": "12:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer013",
+			"Latitude": 39.759404,
+			"Longitude": -105.045166,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer014",
+			"Latitude": 39.760577,
+			"Longitude": -105.015824,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer015",
+			"Latitude": 39.744377,
+			"Longitude": -104.988027,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer016",
+			"Latitude": 39.753799,
+			"Longitude": -104.991493,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer017",
+			"Latitude": 39.7491,
+			"Longitude": -105.022071,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer018",
+			"Latitude": 39.71005,
+			"Longitude": -105.034422,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer019",
+			"Latitude": 39.699923,
+			"Longitude": -105.048865,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer020",
+			"Latitude": 39.707665,
+			"Longitude": -105.029438,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "15:00",
+					"latest": "18:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer021",
+			"Latitude": 39.718952,
+			"Longitude": -104.94133,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "12:00",
+					"latest": "15:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer022",
+			"Latitude": 39.723464,
+			"Longitude": -104.976386,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "12:00",
+					"latest": "15:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer023",
+			"Latitude": 39.737329,
+			"Longitude": -104.986149,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "12:00",
+					"latest": "15:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer024",
+			"Latitude": 39.732052,
+			"Longitude": -104.970328,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "12:00",
+					"latest": "15:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer025",
+			"Latitude": 39.73898,
+			"Longitude": -104.971841,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "12:00",
+					"latest": "15:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer026",
+			"Latitude": 39.735433,
+			"Longitude": -104.969525,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "12:00",
+					"latest": "15:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer027",
+			"Latitude": 39.737571,
+			"Longitude": -104.94948,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "12:00",
+					"latest": "15:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer028",
+			"Latitude": 39.742925,
+			"Longitude": -104.962232,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "12:00",
+					"latest": "15:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer029",
+			"Latitude": 39.69995,
+			"Longitude": -104.99917,
+			"VisitDurationInMinutes": 30,
+			"Time_Window": [
+				{
+					"earliest": "12:00",
+					"latest": "15:00"
+				}
+			]
+		},
+		{
+			"Name": "Customer030",
+			"Latitude": 39.699675,
+			"Longitude": -104.958124,
+			"VisitDurationInMinutes": 60,
+			"Time_Window": [
+				{
+					"earliest": "12:00",
+					"latest": "15:00"
+				}
+			]
+		}
+	],
+	"OptimizeParameters": {
+		"AppId": "<Your AppId goes here>",
+		"OptimizeType": "time",
+		"RouteType": "realroadcar",
+		"Avoid": "none",
+		"Departure": "08:00",
+		"MinimizeVehicle": false,
+		"Vehicles": [
+			{
+				"vehicle_id": "Vehicle01",
+				"StartLocation": "Depot",
+				"EndLocation": "Depot",
+				"DriverAvailabilityFrom": "08:00",
+				"DriverAvailabilityTo": "19:00"
+			},
+			{
+				"vehicle_id": "Vehicle02",
+				"StartLocation": "Depot",
+				"EndLocation": "Depot",
+				"DriverAvailabilityFrom": "08:00",
+				"DriverAvailabilityTo": "19:00"
+			},
+			{
+				"vehicle_id": "Vehicle03",
+				"StartLocation": "Depot",
+				"EndLocation": "Depot",
+				"DriverAvailabilityFrom": "08:00",
+				"DriverAvailabilityTo": "19:00"
+			}
+		]
+	}
+}
