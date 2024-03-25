@@ -16,7 +16,7 @@ RouteSavvy Json Plus API provides additional features including "Time Windows" a
 
 •	ExampleJsonPost-C# – example C# code that reads a json input file and performs a RouteSavvy POST Request
 
-•	RSIPlus30-request-8hr.json – is a sample RouteSavvy API json request file – replace \<Your AppId goes here\>  with your RouteSavvy Json API AppId.
+•	RSIPlus30-request-8hr.json – is a sample RouteSavvy Json Plus API request file – replace \<Your AppId goes here\>  with your RouteSavvy Json API AppId.
 Free trial AppId is available here: https://routesavvy.flywheelsites.com/routesavvy-api-free-trial/
 
 •	User Guide - https://www.routesavvy.com/wp-content/uploads/2024/01/RouteSavvy-API-PLUS-Documentation.pdf
